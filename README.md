@@ -30,5 +30,4 @@
 ### Introduction
 - 👨‍💻 I’m currently working on web development and app projects to further my exposure
 - 🌱 & am currently learning react, javascript and R
-- 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach me at the following:
-
+- 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
