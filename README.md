@@ -28,6 +28,6 @@
 **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Introduction
-- 👨‍💻 I’m currently working on web development and app projects to further my exposure
-- 🌱 & am currently learning react, javascript and R
+- 👨‍💻 I’m currently working on web dev and mobile app projects to further my exposure
+- 🌱 & am expanding my mastery in react, javascript and R
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
