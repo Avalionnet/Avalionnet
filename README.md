@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h2> 
+    Welcome to my github profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  </h2>
+</div>
+
+<div align="center">
+  <h3>
+    I'm Ming Lim, a penultimate Computer Science student at the National University of Singapore!
+  </h3>
+  <p>
+    With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
+  </p>
+</div>
 
 <!--
-**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on web development and app projects to further my exposure
+- 🌱 & am currently learning react, javascript and R
+- 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach me at the following:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Avalionnet | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Avalionnet | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+<!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
