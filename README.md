@@ -1,12 +1,12 @@
 <div align="center">
   <h2> 
-    Welcome to my github profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    Hi I'm Ming Lim & welcome to my github profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h2>
 </div>
 
 <div align="center">
   <h3>
-    I'm Ming Lim, a penultimate Computer Science student at the National University of Singapore!
+    Penultimate Computer Science student @ National University of Singapore | Software Engineer | Product Manager
   </h3>
   <p>
     With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
