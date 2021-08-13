@@ -8,6 +8,9 @@
   <h3>
     Software Engineer | Product Manager | Penultimate Computer Science @ NUS
   </h3>
+  <p>
+    With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
+  </p>
 </div>
 <div style="text-align:center">
   <p align="center">
@@ -20,12 +23,6 @@
     </a>
     <!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
   </p>
-</div>
-<div align="center">
-  <p>
-    With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
-  </p>
-</div>
 
 <!--
 **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -35,7 +32,3 @@
 - 🌱 & am currently learning react, javascript and R
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach me at the following:
 
-
-<!-- [website]: <my website> -->
-[linkedin]: https://www.linkedin.com/in/minglim/
-[gmail]: mailto:minglim@comp.nus.edu.sg
