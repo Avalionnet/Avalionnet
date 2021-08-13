@@ -1,4 +1,4 @@
-### Hello, welcome to my github profile 👋 
+## Welcome to my github profile 👋 
 ### I'm Ming Lim, a penultimate Computer Science student at the National University of Singapore!
 
 I love building products and automating processes with the goal of making a difference in our world one small step at a time :)
