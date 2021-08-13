@@ -24,8 +24,6 @@
     <!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
   </p>
 
-![](https://komarev.com/ghpvc/?username=Avalionnet&color=green&style=flat&label=Github+Profile+Visitors)
-
 <!--
 **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -33,3 +31,7 @@
 - 👨‍💻 I’m currently working on web dev and mobile app projects to further my exposure
 - 🌱 & am expanding my mastery in react, javascript and R
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
+
+
+![](https://komarev.com/ghpvc/?username=Avalionnet&color=green&style=flat&label=Github+Profile+Visitors)
+
