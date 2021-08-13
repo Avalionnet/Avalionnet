@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    Penultimate Computer Science @ NUS | Software Engineer | Product Manager
+    Software Engineer | Product Manager | Penultimate Computer Science @ NUS
   </h3>
   <p>
     With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
