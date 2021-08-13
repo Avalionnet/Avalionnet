@@ -1,8 +1,9 @@
 ### Hello, welcome to my github profile 👋 
-### I'm Ming Lim, a penultimate year Computer Science student at the National University of Singapore!
+### I'm Ming Lim, a penultimate Computer Science student at the National University of Singapore!
 
+I love building products and automating processes with the goal of making a difference in our world one small step at a time :)
 <!--
-**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 - 🔭 I’m currently working on life
 - 🌱 I’m currently learning ...
@@ -11,4 +12,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-
+-->
