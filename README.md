@@ -14,13 +14,13 @@
 </div>
 
 <!--
-**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on life
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m currently working on web development and app projects to further my exposure
+- 🌱 & am currently learning react, javascript and R
+- 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach me at the following:
+
+<!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Avalionnet | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Avalionnet | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+<!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
