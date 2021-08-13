@@ -10,16 +10,11 @@
   </h3>
 </div>
 
-<div align="center">
   <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-  [<img align="left" alt="Avalionnet | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-  [<img align="left" alt="Avalionnet | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+  [<img align="center" alt="Avalionnet | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] [https://www.linkedin.com/in/minglim/]
+  [<img align="center" alt="Avalionnet | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mailto:minglim@comp.nus.edu.sg]
   <!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
-
-  <!-- [website]: <my website> -->
-  [linkedin]: https://www.linkedin.com/in/minglim/
-  [gmail]: mailto:minglim@comp.nus.edu.sg
- 
+<div align="center">
   <p>
     With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
   </p>
