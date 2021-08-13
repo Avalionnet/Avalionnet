@@ -29,7 +29,7 @@
 ### Introduction
 - 👨‍💻 Currently working on web dev and mobile app projects to further my exposure
 - 🌱 Expanding my mastery in react, javascript and R
-- 💼 Recently interned at Shopee, where I built automation scripts and software to convert excel data into beautiful pdfs reports with python
+- 💼 Recently interned at Shopee, where I built automation scripts and software to convert excel data into beautiful pdfs reports with 🐍
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
 
 
