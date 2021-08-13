@@ -24,3 +24,6 @@
 [<img align="left" alt="Avalionnet | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Avalionnet | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 <!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
+
+<!-- [website]: <my website> -->
+[linkedin]: https://www.linkedin.com/in/minglim/
