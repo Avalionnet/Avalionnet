@@ -27,3 +27,4 @@
 
 <!-- [website]: <my website> -->
 [linkedin]: https://www.linkedin.com/in/minglim/
+[gmail]: mailto:minglim@comp.nus.edu.sg
