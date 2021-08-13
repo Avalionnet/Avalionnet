@@ -28,8 +28,9 @@
 **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Introduction
-- 👨‍💻 I’m currently working on web dev and mobile app projects to further my exposure
-- 🌱 & am expanding my mastery in react, javascript and R
+- 👨‍💻 Currently working on web dev and mobile app projects to further my exposure
+- 🌱 Expanding my mastery in react, javascript and R
+- 💼 Recently interned at Shopee, where I helped automate tracking scripts and build software to convert excel data into beautiful pdfs reports with python
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
 
 
