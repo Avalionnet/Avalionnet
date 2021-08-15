@@ -19,8 +19,8 @@
     <!-- [<img align="left" alt="Avalionnet | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium] -->
   </p>
 </div>
-<!--
-**Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Introduction
 - 👨‍💻 Currently working on web dev and mobile app projects to further my exposure
 - 🌱 Expanding my mastery in react, javascript and R
