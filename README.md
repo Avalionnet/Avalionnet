@@ -8,8 +8,6 @@
   <p>
     With a love of building products and automating processes, I hope to make a difference in our world one small step at a time :)
   </p>
-</div>
-<div style="text-align:center">
   <p align="center">
     <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
     <a href = https://www.linkedin.com/in/minglim/>
