@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h2> 
     Hi, I'm Ming Lim & welcome to my profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h2>
