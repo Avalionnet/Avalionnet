@@ -33,6 +33,6 @@
 ![](https://komarev.com/ghpvc/?username=Avalionnet&color=green&style=flat&label=Github+Profile+Visitors)
 <details>
   <summary>:zap: GitHub Stats</summary>
-    [![Avalion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avalionnet&show_icons=true&theme=vision-friendly-dark&custom_title=Github+Stats)](https://github.com/avalionnet/github-readme-stats)
+  <img align="c" alt="Avalion's Github Stats" src=https://github-readme-stats.vercel.app/api?username=Avalionnet&show_icons=true&theme=vision-friendly-dark&custom_title=Github+Stats" />
 </details>
 
