@@ -2,9 +2,6 @@
   <h2> 
     Hi, I'm Ming Lim & welcome to my github profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h2>
-</div>
-
-<div align="center">
   <h3>
     Software Engineer | Product Manager | Penultimate Computer Science @ NUS
   </h3>
