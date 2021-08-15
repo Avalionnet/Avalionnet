@@ -26,6 +26,7 @@
 - 🌱 Expanding my mastery in react, javascript and R
 - 💼 Recently interned at Shopee, where I built automation scripts and software to convert excel data into beautiful pdfs with 🐍
 - 👯 I’m also looking to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
+- 🎮 Looking forward to Halo Infinite
 
 
 ![](https://komarev.com/ghpvc/?username=Avalionnet&color=green&style=flat&label=Github+Profile+Visitors)
