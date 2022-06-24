@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi, I'm Ming Lim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    Hi, I'm Ming Lim ✌
   </h2>
   <h3>
     Software Engineer | Product Manager | Final Year Computer Science Student @ NUS
