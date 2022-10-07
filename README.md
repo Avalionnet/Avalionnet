@@ -6,7 +6,7 @@
     Software Engineer | Product Manager | Final Year Computer Science Student @ NUS
   </h3>
   <p>
-    Love building products and automating processes while aiming to make a difference in our world one small step at a time :)
+    Love building products and automating processes while aiming to make a difference in our world one step at a time :)
   </p>
   <p align="center">
     <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -22,8 +22,8 @@
 
 <!-- **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Introduction
-- 👨‍💻 Currently building a next gen productivity app
-- 🌱 Expanding my mastery in vueJS, react, python and R
+- 👨‍💻 Currently building [WonderSpace🚀](https://www.wonderspace.app/), a next-gen virtual productivity workspace to work, study and relax
+- 🌱 Expanding my mastery in VueJS, React, Python and R
 - 💼 Recently interned at Shopee, where I built automation scripts and software to convert excel data into beautiful pdfs with 🐍 for analytics and visualization
 - 👯 I’m always open to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
 - 🎮 Halo Infinite
