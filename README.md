@@ -22,7 +22,7 @@
 
 <!-- **Avalionnet/Avalionnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Introduction
-- 👨‍💻 Currently building [WonderSpace🚀](https://www.wonderspace.app/), a next-gen virtual productivity workspace with more than 10k monthly users to work, study and relax
+- 👨‍💻 Currently building [WonderSpace🚀](https://www.wonderspace.app/), a next-gen virtual productivity workspace with more than 40k monthly users to work, study and relax
 - 🌱 Expanding my mastery in VueJS, React, Python and R
 - 💼 Recently interned at Shopee, where I built automation scripts and software to convert excel data into beautiful pdfs with 🐍 for analytics and visualization
 - 👯 I’m always open to collaborate on commercial/open-source projects so feel free to reach out to me via LinkedIn or Email!
