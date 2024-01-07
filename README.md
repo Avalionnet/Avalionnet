@@ -6,7 +6,7 @@
     Software Engineer | Product Manager | Final Year Computer Science Student @ NUS
   </h3>
   <p>
-    Love building products and automating processes while aiming to make a difference in our world one step at a time :)
+    Love building products and automating processes. Hope to make a difference in our world one step at a time :)
   </p>
   <p align="center">
     <!-- [<img align="left" alt="<my website>.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
